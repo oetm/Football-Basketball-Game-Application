@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ReclamaThread
+comment1.params=
+comment1.target=ReclamaThread()
+comment2.params=nume
+comment2.target=ReclamaThread(java.lang.String)
+comment3.params=
+comment3.target=void\ run()
+numComments=4

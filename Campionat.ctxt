@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Campionat
+comment1.params=
+comment1.target=Campionat()
+comment10.params=
+comment10.target=java.util.List\ getEchipe()
+comment2.params=
+comment2.target=Campionat\ getInstance()
+comment3.params=c
+comment3.target=void\ adaugaEchipe(Clasament)
+comment4.params=
+comment4.target=void\ afiseazaEchipe()
+comment5.params=c
+comment5.target=void\ sorteazaEchipe(Clasament)
+comment6.params=
+comment6.target=void\ stergeEchipe()
+comment7.params=c
+comment7.target=void\ actualizareMeci(Clasament)
+comment8.params=
+comment8.target=void\ nrMeciuri()
+comment9.params=
+comment9.target=void\ setEchipe()
+numComments=11
